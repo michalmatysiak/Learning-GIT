@@ -1,7 +1,8 @@
 body {
   width: 1200px;
-  background: yellow;
-  font-size: 20px; }
+  background: purple;
+  font-size: 20px;
+  text-align: center; }
   body h1, body h2 {
     font-size: 15px;
     color: red; }
